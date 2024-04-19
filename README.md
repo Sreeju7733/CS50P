@@ -4,15 +4,12 @@
 
 ---
 
-These are my answers for the Introduction to Python 2022 course in CS50.
-
-**Final Project:** [ChiperPack: Secure File Encryptor and Decryptor]
-
-Final Project Video Demo: [https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A](https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A)
+### **Final Project:** [ChiperPack - https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A](https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A)
 
 ---
 
 ### Notice:
+- These are my answers for the Introduction to Python 2022 course in CS50.
 - **The codes below are meant primarily for instructional purposes; they should not be utilized or presented as your own solutions.**
 - **Cheating is against the course's [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/), and it is completely useless if you genuinely want to learn programming.**
 
